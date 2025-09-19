@@ -3,6 +3,7 @@
 
 Hi there! 👋 I'm a Business Intelligence Analyst passionate about transforming raw data into actionable insights. With a strong foundation in Power BI, Tableau, SQL, and Python, I specialize in:
 
+🔹 **Coding & System development** – Programming and designing the custom system📊
 
 🔹 **Data Visualization & Dashboarding** – Crafting interactive reports using Power BI & Tableau 📊
 
