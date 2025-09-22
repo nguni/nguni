@@ -30,7 +30,7 @@ Hi there! 👋 I'm a Business Intelligence Analyst passionate about transforming
 
 
 #### 📜 Github stats:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=nguni&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=nguni&show_icons=true&theme=radical&commits_year=2025)
 
 
 
